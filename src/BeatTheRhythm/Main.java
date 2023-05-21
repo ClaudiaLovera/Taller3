@@ -1,6 +1,10 @@
 package BeatTheRhythm;
 import ucn.*;
 import java.io.IOException;
+
+//Claudia Lovera 21.008.288-3
+//Antonia Flores 21.202.798-7
+//Paralelo C2
 public class Main {
 
 
